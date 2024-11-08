@@ -1,5 +1,7 @@
 # Customer Management Application
-<img src = ""/>
+## Assignment :
+<img src = "Images/page1.png"/><br>
+<img src = "Images/page2.png"/>
 ## A simple CRUD application for managing customers, built with: <br> 
 Backend: Java (Spring Boot or JSP Servlet)<br> 
 Database: MySQL<br> 
